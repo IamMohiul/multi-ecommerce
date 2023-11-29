@@ -153,14 +153,16 @@
                         if(data.status == 'success'){
                             Swal.fire(
                                 'Deleted!',
-                                data.message
+                                data.message,
+                                'success'
                             ).then(() => {
                                     window.location.reload();
                                 });
                         } else if(data.status == 'error'){
                             Swal.fire(
                                 'Can not Deleted!',
-                                data.message
+                                data.message,
+                                'error'
                             )
                         }
                     },
