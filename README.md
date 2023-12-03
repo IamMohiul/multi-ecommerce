@@ -57,17 +57,9 @@ Make sure you have the following installed on your machine:
 
 Describe how to use your application. Include any important steps or information that users or developers should be aware of.
 
-## Contributing
-
-If you'd like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- Mention any libraries or resources that you used or were inspired by.
+- 
 
 ## Contact
 
